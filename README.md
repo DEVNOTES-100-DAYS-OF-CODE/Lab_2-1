@@ -1,6 +1,6 @@
 # Introduction to Programming II (C++) 
 # Lab  2-1
-** Part 1-Structs **
+**Part 1-Structs**
 
 This project consists of creating a program that represents a small car dealership's inventory using `structs`. 
 
