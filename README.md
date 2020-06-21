@@ -10,6 +10,4 @@ The goal is to explore & discover cool ways of combining code and design.
 
 ## Index
 
--[ ] text
-
-[Day 1 → Glowing Gradient Loader](./Glowing_Gradient_Loader)
+- [ ] [Day 1 → Glowing Gradient Loader](./Glowing_Gradient_Loader)
