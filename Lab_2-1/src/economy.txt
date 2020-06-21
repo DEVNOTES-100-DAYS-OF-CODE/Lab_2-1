@@ -1,3 +1,0 @@
-2 Ford Focus 2010 10000
-3 Honda Accord 2017 40000
-5 Toyota Prius 2015 20000
