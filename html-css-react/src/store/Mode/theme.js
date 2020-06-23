@@ -1,9 +1,9 @@
-const darkMode = {
+export const darkMode = {
   body: '#000000',
-  text: '#ffffff',
+  text: '#FFFFFF',
 };
 
-const lightMode = {
-  body: '#ffffff',
-  text: '#000000',
+export const lightMode = {
+  body: '#FFFFFF',
+  text: '#141414',
 };
