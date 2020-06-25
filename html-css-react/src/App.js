@@ -9,6 +9,7 @@ import { GlobalStyles } from './store/Mode/global';
 
 import NavCondition from './components/Navigation/NavBarCondition';
 import Glowing_Gradient_Loader from './components/Glowing_Gradient_Loader/Glowing_Gradient_Loader';
+import Sun_Moon_Morph from './components/Sun_Moon_Morph/Sun_Moon_Morph';
 
 function App() {
   const [theme, toggleTheme, componentMounted] = useDarkMode();
@@ -24,8 +25,9 @@ function App() {
       <ThemeProvider theme={themeMode}>
         <div className='App'>
           <GlobalStyles />
-          <NavCondition toggleTheme={toggleTheme} />
-          <Glowing_Gradient_Loader />
+          {/* <NavCondition toggleTheme={toggleTheme} /> */}
+          {/* <Glowing_Gradient_Loader /> */}
+          <Sun_Moon_Morph toggleTheme={toggleTheme} theme={theme} />
         </div>
       </ThemeProvider>
     </Router>
