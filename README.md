@@ -1,4 +1,4 @@
-## SINGLE_COMPONENTS
+## SINGLE COMPONENTS
 
 When I started #100DaysOfCode I think I was trying to bite off more than I could chew. Too much too fast, I guess. I want to produce great work; clean work. So I'm changing directions to produce — Minimal Software.
 
