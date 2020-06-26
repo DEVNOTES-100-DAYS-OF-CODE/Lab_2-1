@@ -10,6 +10,6 @@ The goal is to explore & discover cool ways of combining code and design.
 
 ## Index
 
-- [ ] [Day 1 → Glowing Gradient Loader](./Glowing_Gradient_Loader)
-- [ ] [Day 2 → Dark Mode + Glowing Gradient Loader](./html-css-react/src/components/Glowing_Gradient_Loader/Glowing_Gradient_Loader.js)
-- [ ] [Day 3 → Sun Moon Morph Animation](./html-css-react/src/components/Sun_Moon_Morph/Sun_Moon_Morph.js )
+- [ ] Day 1 → [Glowing Gradient Loader](./Glowing_Gradient_Loader)
+- [ ] Day 2 → [Dark Mode](./html-css-react/src/store/Mode/useDarkMode.js) + [Glowing Gradient Loader](./html-css-react/src/components/Glowing_Gradient_Loader/Glowing_Gradient_Loader.js)
+- [ ] Day 3 → [Sun Moon Morph Animation](./html-css-react/src/components/Sun_Moon_Morph/Sun_Moon_Morph.js )
